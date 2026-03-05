@@ -123,6 +123,6 @@ Actions:
 - Shift budget away from low-value acquisition channels
 
 ## Technical Details
-- **Database:** PostgresSQL
-- **Analysis Tools:** Dbeaver
+- **Database:** PostgreSQL
+- **Analysis Tools:** DBeaver, PostgreSQL, PGadmin
 - **Visualisation** ChatGPT 
