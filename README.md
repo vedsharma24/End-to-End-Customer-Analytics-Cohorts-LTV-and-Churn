@@ -1,4 +1,4 @@
-# Sales analysis
+# End-to-End Customer Analytics: Cohorts, LTV, and Churn
 
 ## Overview
 Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximise revenue.
